@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {
     int a;
-    printf("enter your age");
+    printf("enter your age in dev b");
     scanf("%d",& a);
     
     if (a>=0 && a<10){
