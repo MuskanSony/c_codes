@@ -4,7 +4,7 @@
 int main() {
 
  int n;
- printf("enter a number n");
+ printf("enter a number n in branh b1");
  scanf("%d", & n);
  int sum;
   
