@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main(){
+int age;
+printf("enter a digit");
+scanf("%d", & age);
+age < 10 ? printf(" valid"): printf("invalid");
+return 0;
+}
